@@ -7,7 +7,7 @@ This repo contains all my work for the course, [Building Conversational Experien
 
 ## Course Work
 
-1. [Week 1](https://github.com/urvi367/Building-Conversational-Experiences-with-Dialogflow-CourseWork/blob/master/PizzaBot.zip)
+1. [Week 1 (PizzaBot)](https://github.com/urvi367/Building-Conversational-Experiences-with-Dialogflow-CourseWork/blob/master/PizzaBot.zip)
     - Build a conversational agent for a **pizza restaurant** using Dialogflow that will let users place orders.
     - Define intents for a pizza-ordering use case to match typical user queries.
     - Identify entities to extract data from user queries.
