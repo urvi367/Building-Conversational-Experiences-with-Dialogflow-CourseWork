@@ -1,7 +1,9 @@
 # Building-Conversational-Experiences-with-Dialogflow-Coursework
 
+
 ## Introduction
 This repo contains all my work for the course, [Building Conversational Experiences with Dialogflow](https://www.coursera.org/learn/conversational-experiences-dialogflow?skipBrowseRedirect=true) offered by Google Cloud on Coursera.
+
 
 ## Course Work
 
@@ -13,10 +15,10 @@ This repo contains all my work for the course, [Building Conversational Experien
     - Setup fulfilment as Cloud Functions code for the agent to be able to store orders in Cloud Datastore.
     
 2. Week 2
-    -Use Cloud Datalab, Python, data science libraries, and Google Natural Language API's machine learning technology to transform an unstructured text document into a structured knowledge base in Cloud Datastore.
-    -Use Dialogflow to build a conversational agent that can respond to questions about the HR manual.
-    -Populate entities from Datastore into the Dialogflow agent.
-    -Use an existing angular code from github to setup a custom UI for the **HR chatbot**.
-    -Deploy a python webhook on AppEngine to handle lookup requests from the HR chatbot and implement basic authentication.
-    -Configure the Dialogflow agent to be able to provide authentication credentials when calling the webhook for fulfilment.
+    - Use Cloud Datalab, Python, data science libraries, and Google Natural Language API's machine learning technology to transform an unstructured text document into a structured knowledge base in Cloud Datastore.
+    - Use Dialogflow to build a conversational agent that can respond to questions about the HR manual.
+    - Populate entities from Datastore into the Dialogflow agent.
+    - Use an existing angular code from github to setup a custom UI for the **HR chatbot**.
+    - Deploy a python webhook on AppEngine to handle lookup requests from the HR chatbot and implement basic authentication.
+    - Configure the Dialogflow agent to be able to provide authentication credentials when calling the webhook for fulfilment.
   
