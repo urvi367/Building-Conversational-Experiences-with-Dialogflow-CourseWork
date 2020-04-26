@@ -14,7 +14,7 @@ This repo contains all my work for the course, [Building Conversational Experien
     - Add input and output context to the pizza ordering intent to maintain continuity.
     - Setup fulfilment as **Cloud Functions** code for the agent to be able to store orders in **Cloud Datastore**.
     
-2. Week 2 [(HR_Chatbot)] (https://github.com/urvi367/Building-Conversational-Experiences-with-Dialogflow-CourseWork/blob/master/HR_Chatbot.zip)
+2. Week 2 [(HR_Chatbot)](https://github.com/urvi367/Building-Conversational-Experiences-with-Dialogflow-CourseWork/blob/master/HR_Chatbot.zip)
     - Use **Cloud Datalab**, Python, data science libraries, and **Google Natural Language API's** to transform an unstructured text document into a structured knowledge base in **Cloud Datastore**. Basically, extract topics and associated policy text from a Human Resources Manual.
     - Use Dialogflow to build a conversational agent that can respond to questions about this document.
     - Populate entities from Datastore into the **Dialogflow agent**.
