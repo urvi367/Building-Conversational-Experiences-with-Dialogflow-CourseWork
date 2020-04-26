@@ -8,17 +8,17 @@ This repo contains all my work for the course, [Building Conversational Experien
 ## Course Work
 
 1. [Week 1 (PizzaBot)](https://github.com/urvi367/Building-Conversational-Experiences-with-Dialogflow-CourseWork/blob/master/PizzaBot.zip)
-    - Build a conversational agent for a **pizza restaurant** using Dialogflow that will let users place orders.
+    - Build a conversational agent for a **pizza restaurant** using **Dialogflow** that will let users place orders.
     - Define intents for a pizza-ordering use case to match typical user queries.
     - Identify entities to extract data from user queries.
     - Add input and output context to the pizza ordering intent to maintain continuity.
-    - Setup fulfilment as Cloud Functions code for the agent to be able to store orders in Cloud Datastore.
+    - Setup fulfilment as **Cloud Functions** code for the agent to be able to store orders in **Cloud Datastore**.
     
 2. Week 2
-    - Use Cloud Datalab, Python, data science libraries, and Google Natural Language API's machine learning technology to transform an unstructured text document into a structured knowledge base in Cloud Datastore.
+    - Use **Cloud Datalab**, Python, data science libraries, and **Google Natural Language API's** machine learning technology to transform an unstructured text document into a structured knowledge base in **Cloud Datastore**.
     - Use Dialogflow to build a conversational agent that can respond to questions about this text document.
-    - Populate entities from Datastore into the Dialogflow agent.
+    - Populate entities from Datastore into the **Dialogflow agent**.
     - Use an existing angular code to setup a custom UI for the **HR chatbot**.
-    - Deploy a python webhook on AppEngine to handle lookup requests from the chatbot and implement basic authentication.
-    - Configure the Dialogflow agent to be able to provide authentication credentials when calling the webhook for fulfilment.
+    - Deploy a **python webhook on AppEngine** to handle lookup requests from the chatbot and implement basic authentication.
+    - Configure the Dialogflow agent to be able to provide **authentication credentials** when calling the webhook for fulfilment.
   
